@@ -3,3 +3,4 @@ creating the mvn project:  mvn archetype:generate
 compiling:  mvn compile
 running:  mvn exec.java -Dexec=mainClass.com.App 
 mvn [target] -Dcheckstyle.skip-------------------->to remove the chckstyle errors
+
